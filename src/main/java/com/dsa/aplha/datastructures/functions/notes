@@ -1,0 +1,8 @@
+Method - Functions written inside class.
+Arguments/actual parameters - Parameters at calling side
+Parameters/formal parameters - Parameters in the called function
+Functions get executed in call stack
+Call By value : When parameters are passed to a function, a copy of the original parameters are passed. 
+The changes made by the called function doesn't reflect on the calling function. Java has call by value.
+Call by reference : Direct passing of original variables (not copies)
+
