@@ -1,0 +1,14 @@
+BinarySearch time complexity :
+
+iteration 1 -> n elements - n/2^0
+iteration 2 -> n/2 elements - n/2^1
+iteration 3 -> n/4 elements - - n/2^2
+.
+.
+after k iterations
+iteration k -> 1 element - n/2^k
+Time complexity = number of iterations = k = log(n)
+1 = n/2^k
+2^k = n
+k = log n
+
