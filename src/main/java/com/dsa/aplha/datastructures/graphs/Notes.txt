@@ -1,0 +1,28 @@
+Graphs- Collection of nodes
+Each node is called a vertex and vertices are connected through edges
+Edges :
+Unidirectional ->
+Bidirectional	<->
+undirectional	--
+Weighted and unweighted graphs- based on if edges have associated values
+Ways to represent a graph :
+1. Adjacency List - list of list - 
+Array<ArrayList> - Outer array represents each node and inner arraylist is the connected nodes to each node
+Hashmap<int,Arraylist>
+ Other representation : 
+ Array<ArrayList<Edge>> : Edge -Source, destination, weight
+ Adjacency MAtrix : Represented as 2D array.To get the number neighbours for a given element TC =O(n)
+Edge LIst : {{0,1}{1,2}{1,3}} 
+Implicit Graph - We solve problems by thinking in terms of graph (not explicitly given)
+
+Application of maps :
+1. Graphs
+2.Social network
+3. Delivery network
+4. Routing Algorithm
+5. Graph databases( where the application to to identify connected data for social media etc) - eg . nebula, neo4g
+
+Graph Traversal :
+Breadth First Search (BFS) : Go to immediate neighbors first. Similar to Level order traversal in trees
+Depth First Search (DFS) : 
+1:00

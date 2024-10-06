@@ -1,0 +1,24 @@
+Fibonacci problem
+//For recursion TC = O(2^n) -tree
+//For DP TC = O(n)- skewed tree
+
+DP is optimized recursion
+How to identify DP?
+a. Optimal problem
+b. Some choices are given (multiple branches in recursion tree)
+c. Overlapping sub problems and optimal substructure
+
+Ways of DP
+1. Memoization - Top down - Uses memory - Used in recursion
+2. Tablulation  - Bottom up - Used in iteration
+
+7 IMP questions:
+1. Fibonacci
+2. 0-1 Knapsack
+3. Unbounded Knapsack
+4. LCS (Longest Common Subsequence)
+5. Kadane's Algorithm (Arrays)
+6. Catalan Number
+7. DP on Grid (2D Arrays)
+
+Climbing stairs next
