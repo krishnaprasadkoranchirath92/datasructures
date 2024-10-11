@@ -1,4 +1,4 @@
-package com.dsa.aplha.datastructures.dp1;
+package com.dsa.aplha.datastructures.dp1_2;
 
 import java.util.Arrays;
 
