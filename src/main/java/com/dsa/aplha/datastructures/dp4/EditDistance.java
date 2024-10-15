@@ -3,8 +3,8 @@ package com.dsa.aplha.datastructures.dp4;
 public class EditDistance {
 
 	public static void main(String[] args) {
-		String str1 = "abcdef";
-		String str2 = "abcde";
+		String str1 = "intention";
+		String str2 = "execution";
 		getMinOperationCount(str1, str2);
 
 	}
